@@ -1,0 +1,11 @@
+.app_top{
+  display: table-cell;
+}
+.btn-group{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+}
+.background{
+  color:black;
+}
